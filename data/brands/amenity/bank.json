@@ -12761,6 +12761,19 @@
       }
     },
     {
+      "displayName": "Sparekassen Danmark",
+      "id": "sparekassendanmark-cc27e5",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Sparekassen Danmark",
+        "brand:wikidata": "Q108608328",
+        "name": "Sparekassen Danmark",
+        "operator": "Sparekassen Danmark",
+        "operator:wikidata": "Q108608328"
+      }
+    },
+    {
       "displayName": "Sparkasse - Cassa di Risparmio",
       "id": "sparkassecassadirisparmio-7b36b5",
       "locationSet": {"include": ["it"]},
@@ -20284,23 +20297,6 @@
         "name": "鹿児島銀行",
         "name:en": "Kagoshima Bank",
         "name:ja": "鹿児島銀行"
-      }
-    },
-    {
-      "displayName": "Sparekassen Danmark",
-      "id": "Sparekassen Danmark",
-      "locationSet": {
-        "include": [
-          "dk"
-        ]
-      },
-      "tags": {
-        "amenity": "bank",
-        "name": "Sparekassen Danmark",
-        "brand": "Sparekassen Danmark",
-        "brand:wikidata": "Q108608328",
-        "operator": "Sparekassen Danmark",
-        "operator:wikidata": "Q108608328"
       }
     }
   ]
